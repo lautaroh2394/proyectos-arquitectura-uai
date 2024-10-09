@@ -1,0 +1,9 @@
+C:\Users\Lau\source\repos\prueba conexion\prueba conexion\bin\Debug\prueba conexion.exe.config
+C:\Users\Lau\source\repos\prueba conexion\prueba conexion\bin\Debug\prueba conexion.exe
+C:\Users\Lau\source\repos\prueba conexion\prueba conexion\bin\Debug\prueba conexion.pdb
+C:\Users\Lau\source\repos\prueba conexion\prueba conexion\obj\Debug\prueba conexion.csproj.AssemblyReference.cache
+C:\Users\Lau\source\repos\prueba conexion\prueba conexion\obj\Debug\prueba_conexion.Properties.Resources.resources
+C:\Users\Lau\source\repos\prueba conexion\prueba conexion\obj\Debug\prueba conexion.csproj.GenerateResource.cache
+C:\Users\Lau\source\repos\prueba conexion\prueba conexion\obj\Debug\prueba conexion.csproj.CoreCompileInputs.cache
+C:\Users\Lau\source\repos\prueba conexion\prueba conexion\obj\Debug\prueba conexion.exe
+C:\Users\Lau\source\repos\prueba conexion\prueba conexion\obj\Debug\prueba conexion.pdb
