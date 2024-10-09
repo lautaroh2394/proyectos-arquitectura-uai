@@ -1,0 +1,6 @@
+C:\Users\Lau\Desktop\Ejercicio previo parcial progra capas (1)\Ejercicio previo parcial progra capas\BE\bin\Debug\BE.dll
+C:\Users\Lau\Desktop\Ejercicio previo parcial progra capas (1)\Ejercicio previo parcial progra capas\BE\bin\Debug\BE.pdb
+C:\Users\Lau\Desktop\Ejercicio previo parcial progra capas (1)\Ejercicio previo parcial progra capas\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Lau\Desktop\Ejercicio previo parcial progra capas (1)\Ejercicio previo parcial progra capas\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Lau\Desktop\Ejercicio previo parcial progra capas (1)\Ejercicio previo parcial progra capas\BE\obj\Debug\BE.dll
+C:\Users\Lau\Desktop\Ejercicio previo parcial progra capas (1)\Ejercicio previo parcial progra capas\BE\obj\Debug\BE.pdb

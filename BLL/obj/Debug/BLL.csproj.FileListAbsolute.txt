@@ -1,0 +1,11 @@
+C:\Users\Lau\Desktop\Ejercicio previo parcial progra capas (1)\Ejercicio previo parcial progra capas\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Lau\Desktop\Ejercicio previo parcial progra capas (1)\Ejercicio previo parcial progra capas\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Lau\Desktop\Ejercicio previo parcial progra capas (1)\Ejercicio previo parcial progra capas\BLL\bin\Debug\BLL.dll
+C:\Users\Lau\Desktop\Ejercicio previo parcial progra capas (1)\Ejercicio previo parcial progra capas\BLL\bin\Debug\BLL.pdb
+C:\Users\Lau\Desktop\Ejercicio previo parcial progra capas (1)\Ejercicio previo parcial progra capas\BLL\bin\Debug\BE.dll
+C:\Users\Lau\Desktop\Ejercicio previo parcial progra capas (1)\Ejercicio previo parcial progra capas\BLL\bin\Debug\DAL.dll
+C:\Users\Lau\Desktop\Ejercicio previo parcial progra capas (1)\Ejercicio previo parcial progra capas\BLL\bin\Debug\BE.pdb
+C:\Users\Lau\Desktop\Ejercicio previo parcial progra capas (1)\Ejercicio previo parcial progra capas\BLL\bin\Debug\DAL.pdb
+C:\Users\Lau\Desktop\Ejercicio previo parcial progra capas (1)\Ejercicio previo parcial progra capas\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Lau\Desktop\Ejercicio previo parcial progra capas (1)\Ejercicio previo parcial progra capas\BLL\obj\Debug\BLL.dll
+C:\Users\Lau\Desktop\Ejercicio previo parcial progra capas (1)\Ejercicio previo parcial progra capas\BLL\obj\Debug\BLL.pdb
